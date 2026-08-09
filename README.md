@@ -30,6 +30,7 @@ Use of this source code is governed by a BSD-style license that can be found in 
 
 
 ## Get it on F-Droid:
+!!!!
 [<img alt="f-droid" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/F-Droid_Logo_4.svg" />](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
 
 
